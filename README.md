@@ -1,0 +1,2 @@
+# equationSolver
+solves equations
